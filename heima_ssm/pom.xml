@@ -188,10 +188,9 @@
     </build>
 
     <modules>
-        <module>heima_ssm_dao</module>
+		<module>heima_ssm_utils</module>
         <module>heima_ssm_domain</module>
-        <module>heima_ssm_web</module>
-        <module>heima_ssm_utils</module>
+        <module>heima_ssm_dao</module>
         <module>heima_ssm_service</module>
     </modules>
 
