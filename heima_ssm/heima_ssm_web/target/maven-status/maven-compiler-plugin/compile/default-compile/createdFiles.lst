@@ -1,2 +1,3 @@
+com\itheima\ssm\controller\UserController.class
 com\itheima\ssm\controller\OrdersController.class
 com\itheima\ssm\controller\ProductController.class
