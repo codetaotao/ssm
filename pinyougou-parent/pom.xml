@@ -288,5 +288,14 @@
 		<module>pinyougou-search-interface</module>
 		<module>pinyougou-search-service</module>
 		<module>pinyougou-search-web</module>
-	</modules>
+		<module>pinyougou-page-interface</module>
+		<module>pinyougou-page-service</module>
+        <module>pinyougou-page-web</module>
+        <module>pinyougou_user_interface</module>
+		<module>pinyougou_user_service</module>
+        <module>pinyougou_user_web</module>
+        <module>pinyougou-cart-interface</module>
+		<module>pinyougou-cart-service</module>
+        <module>pinyougou-cart-web</module>
+    </modules>
 </project>

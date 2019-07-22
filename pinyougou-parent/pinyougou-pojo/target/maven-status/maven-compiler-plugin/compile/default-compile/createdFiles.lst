@@ -83,6 +83,7 @@ entity\Result.class
 com\pinyougou\pojo\TbItemCatExample$Criterion.class
 com\pinyougou\pojo\TbSpecificationOptionExample$Criterion.class
 com\pinyougou\pojogroup\Goods.class
+com\pinyougou\pojogroup\Cart.class
 com\pinyougou\pojo\TbContentCategoryExample.class
 com\pinyougou\pojo\TbGoodsDescExample$Criterion.class
 com\pinyougou\pojo\TbOrderItem.class
